@@ -30,7 +30,7 @@ namespace EPHRS
         private static int nextId = 1001; // auto-increment starting at 1001
 
         // >>> This is the line you will change on both branches to create the merge conflict <<<
-        private const string AppTitle = "EMPLOYEE PAYROLL & HR MANAGEMENT SYSTEM";
+        private const string AppTitle = "EPHRS - ANGELA NEOMI EDITION";
 
         public static void Main(string[] args)
         {
