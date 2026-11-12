@@ -1,0 +1,14 @@
+C:\Users\Anim Pito\AmidoAngelaNeomiEPHRS\bin\Debug\net8.0\EPHRS.exe
+C:\Users\Anim Pito\AmidoAngelaNeomiEPHRS\bin\Debug\net8.0\EPHRS.deps.json
+C:\Users\Anim Pito\AmidoAngelaNeomiEPHRS\bin\Debug\net8.0\EPHRS.runtimeconfig.json
+C:\Users\Anim Pito\AmidoAngelaNeomiEPHRS\bin\Debug\net8.0\EPHRS.dll
+C:\Users\Anim Pito\AmidoAngelaNeomiEPHRS\bin\Debug\net8.0\EPHRS.pdb
+C:\Users\Anim Pito\AmidoAngelaNeomiEPHRS\obj\Debug\net8.0\EPHRS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anim Pito\AmidoAngelaNeomiEPHRS\obj\Debug\net8.0\EPHRS.AssemblyInfoInputs.cache
+C:\Users\Anim Pito\AmidoAngelaNeomiEPHRS\obj\Debug\net8.0\EPHRS.AssemblyInfo.cs
+C:\Users\Anim Pito\AmidoAngelaNeomiEPHRS\obj\Debug\net8.0\EPHRS.csproj.CoreCompileInputs.cache
+C:\Users\Anim Pito\AmidoAngelaNeomiEPHRS\obj\Debug\net8.0\EPHRS.dll
+C:\Users\Anim Pito\AmidoAngelaNeomiEPHRS\obj\Debug\net8.0\refint\EPHRS.dll
+C:\Users\Anim Pito\AmidoAngelaNeomiEPHRS\obj\Debug\net8.0\EPHRS.pdb
+C:\Users\Anim Pito\AmidoAngelaNeomiEPHRS\obj\Debug\net8.0\EPHRS.genruntimeconfig.cache
+C:\Users\Anim Pito\AmidoAngelaNeomiEPHRS\obj\Debug\net8.0\ref\EPHRS.dll
